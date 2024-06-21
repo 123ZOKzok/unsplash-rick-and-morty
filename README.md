@@ -75,6 +75,11 @@ Check out our presentation slides that introduce the Unsplash and Rick & Morty A
 
 - [View Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA)
 
+## Demo
+
+Explore a live demo of our project to see it in action:
+- [View Demo](https://unsplash-rick-and-morty.vercel.app/unsplash)
+
 ## Deployment
 
 The project is deployed using [Vercel](https://vercel.com/), a platform for frontend frameworks and static sites.
