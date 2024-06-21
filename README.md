@@ -73,12 +73,12 @@ To run this project locally, follow these steps:
 
 Check out our presentation slides that introduce the Unsplash and Rick & Morty APIs, along with their use cases for businesses and developers:
 
-- [View Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA)
+- [Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA)
 
 ## Demo
 
 Explore a live demo of our project to see it in action:
-- [View Demo](https://unsplash-rick-and-morty.vercel.app/unsplash)
+- [Demo](https://unsplash-rick-and-morty.vercel.app/unsplash)
 
 ## Deployment
 
