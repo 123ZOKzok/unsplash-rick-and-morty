@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 
 Check out our presentation slides that introduce the Unsplash and Rick & Morty APIs, along with their use cases for businesses and developers:
 
-- [Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA)
+- [Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA/edit?utm_content=DAGIv52d0Y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Demo
 
