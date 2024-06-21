@@ -69,6 +69,12 @@ To run this project locally, follow these steps:
 3. Press Enter or click the Search button to fetch characters from Rick & Morty API.
 4. View the list of Rick & Morty characters displayed in card format.
 
+## Presentation Slides
+
+Check out our presentation slides that introduce the Unsplash and Rick & Morty APIs, along with their use cases for businesses and developers:
+
+- [View Presentation Slides](https://www.canva.com/design/DAGIv52d0Y0/yzqerz-S5L8h8HPvr-W7tA)
+
 ## Deployment
 
 The project is deployed using [Vercel](https://vercel.com/), a platform for frontend frameworks and static sites.
